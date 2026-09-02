@@ -29,7 +29,7 @@ y = 2.5
 print(x + y)
 
 
-# complex
+# complex-----------
 # Used for complex numbers.
 
 z = 2 + 3J
@@ -89,7 +89,7 @@ print(name[1])
 print(name[-1])
 
 
-# Lists
+# Lists--------
 # A list stores multiple values.
 numbers = [10, 20, 30, 40]
 
@@ -103,7 +103,7 @@ numbers[0] = 100
 print(numbers)
 
 
-# Tuples
+# Tuples-------
 # A tuple is similar to a list but is immutable.
 
 coordinates = (10, 20)
@@ -116,7 +116,7 @@ coordinates[0] = 100
 # Tuples are useful when the collection should not be modified.
 
 
-# Sets
+# Sets----------
 # A set stores unique values.
 
 numbers = {1, 2, 3, 3, 4}
@@ -130,7 +130,7 @@ skills = {"Python", "Selenium", "SQL"}
 print("Python" in skills)
 
 
-# Dictionaries
+# Dictionaries------
 # A dictionary stores data as key-value pairs.
 
 student = {

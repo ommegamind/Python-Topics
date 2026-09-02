@@ -5,4 +5,5 @@ Navigate:
 Basics:\
 ->variables.py\
 ->data_types.py\
-->operators.py
+->operators.py\
+->conditions.py
