@@ -7,4 +7,5 @@ Basics:\
 ->data_types.py\
 ->operators.py\
 ->conditions.py\
-->loops.py
+->loops.py\
+->functions.py
