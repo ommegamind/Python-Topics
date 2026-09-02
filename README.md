@@ -8,4 +8,6 @@ Basics:\
 ->operators.py\
 ->conditions.py\
 ->loops.py\
-->functions.py
+->functions.py\
+->arrays.py\
+->strings.py
