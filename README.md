@@ -6,4 +6,5 @@ Basics:\
 ->variables.py\
 ->data_types.py\
 ->operators.py\
-->conditions.py
+->conditions.py\
+->loops.py
