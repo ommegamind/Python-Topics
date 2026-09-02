@@ -4,3 +4,4 @@ Navigate:
 
 Basics:
 ->variables.py
+->data_types.py
