@@ -10,4 +10,5 @@ Basics:\
 ->loops.py\
 ->functions.py\
 ->arrays.py\
-->strings.py
+->strings.py\
+->exception_handling.py
