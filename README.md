@@ -20,3 +20,9 @@ OOP:\
 ->abstraction.py\
 ->inheritance.py\
 ->polymorphism.py
+
+PracticeProblems:\
+->reverse_string.py\
+->factorial.py\
+->fibonacci.py\
+->palindrome.py\
