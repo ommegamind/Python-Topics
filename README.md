@@ -11,4 +11,5 @@ Basics:\
 ->functions.py\
 ->arrays.py\
 ->strings.py\
-->exception_handling.py
+->exception_handling.py\
+->collections.py
