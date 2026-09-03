@@ -17,4 +17,5 @@ Basics:\
 OOP:\
 ->class_and_obj.py\
 ->encapsulation.py\
-->abstraction.py
+->abstraction.py\
+->inheritance.py
