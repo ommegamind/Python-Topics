@@ -13,3 +13,7 @@ Basics:\
 ->strings.py\
 ->exception_handling.py\
 ->collections.py
+
+OOP:\
+->class_and_obj.py\
+->encapsulation.py
