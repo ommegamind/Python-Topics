@@ -1,6 +1,7 @@
 # Encapsulation means keeping an object's data and 
 # the code that works with that data together, 
 # while controlling how that data is accessed or changed.
+# TO PROTECT
 
 # Encapsulation: control access
 # We can make the internal variable private-ish:
