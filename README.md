@@ -26,3 +26,9 @@ PracticeProblems:\
 ->factorial.py\
 ->fibonacci.py\
 ->palindrome.py\
+
+Selenium:\
+->basics.py
+
+Numpy:\
+->arrays.py
