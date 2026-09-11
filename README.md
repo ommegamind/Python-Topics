@@ -32,3 +32,9 @@ Selenium:\
 
 Numpy:\
 ->arrays.py
+
+Pandas:\
+->Datasets:\
+-->pokemon.csv\
+->data_handling.py
+->data_cleaning.py
